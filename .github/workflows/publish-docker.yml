@@ -2,7 +2,8 @@
 name: Publish Docker dev image
 
 on:
-  workflow_dispatch:
+  push:
+    branches: ["master"]
 
 env:
   REGISTRY: ghcr.io
