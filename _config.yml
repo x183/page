@@ -1,26 +1,28 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown: kramdown
+highlighter: pygments
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink: pretty
+# relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title: Oscar Palm
+tagline: "Msc Student @ Chalmers"
+description: "Software engineering student at Chalmers University of Technology"
+url: http://oscarpalm.net
+baseurl: /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name: "Oscar Palm"
+  url: https://linkedin.com/in/oscar-palm-48362a15a/
+  linkedin: https://linkedin.com/in/oscar-palm-48362a15a/
+  github: https://github.com/x183
 
-paginate:         5
+paginate: 5
 
 # Custom vars
-version:          2.1.0
+version: 0.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo: https://github.com/x183/page
