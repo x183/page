@@ -5,3 +5,5 @@ RUN gem install bundler -v 2.4.22
 ENV BUNDLE_GEMFILE=/app/Gemfile
 COPY Gemfile $BUNDLE_GEMFILE
 RUN bundle install -j 4
+
+CMD "jekyll serve"
