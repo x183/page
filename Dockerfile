@@ -6,4 +6,6 @@ ENV BUNDLE_GEMFILE=/app/Gemfile
 COPY Gemfile $BUNDLE_GEMFILE
 RUN bundle install -j 4
 
+expose 4000
+
 CMD "jekyll serve"
