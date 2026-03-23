@@ -1,5 +1,12 @@
 projects = [
   {
+    name: "Local Minecraft server scanner",
+    description:
+      "School project. Added functionality to the homeassistant integration minecraft-server, such as it could scan the local network for active Minecraft servers and display information about them.",
+    date: "2025",
+    link: "https://github.com/x183/homeassistant-core",
+  },
+  {
     name: "lucid3",
     description:
       "Forked and updated version of the hoogle package lucid2. Reworked to generalise the code to support other XML-like domain-specific languages instead of only HTML5. Added support for RSS to show how to implement other languages.",
