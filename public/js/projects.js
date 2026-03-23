@@ -1,5 +1,12 @@
 projects = [
   {
+    name: "lucid3",
+    description:
+      "Forked and updated version of the hoogle package lucid2. Reworked to generalise the code to support other XML-like domain-specific languages instead of only HTML5. Added support for RSS to show how to implement other languages.",
+    date: "2025",
+    link: "https://github.com/x183/lucid",
+  },
+  {
     name: "Python Tutorial Package",
     description:
       "School project. Created a website where people learning programming can do exercises and have a playground to try out different techniques and functions.",
@@ -9,7 +16,7 @@ projects = [
   {
     name: "GAMES",
     description:
-      "School project. Created a web service where people can manage their physical game libraries, functionality for multiple users and borrowing games..",
+      "School project. Created a web service where people can manage their physical game libraries, functionality for multiple users and borrowing games.",
     date: "2023",
     link: "https://github.com/cthit/GAMES",
   },
