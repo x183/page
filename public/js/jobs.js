@@ -1,8 +1,17 @@
 jobs = [
   {
+    role: "Application Software Developer",
+    company: "Satcube AB",
+    time: "Jun 2026 - Current",
+    description: [
+      "Develop & maintain services",
+      "System maintenance, monitoring, and upkeep",
+    ],
+  },
+  {
     role: "Instructor",
     company: "Frivilliga Radioorganisationen FRO",
-    time: "May 2025 - Feb 2026",
+    time: "May 2025 - May 2026",
     description: [
       "Designed and created a new web shop for the organisation.",
       "Planned and held several courses in programming and computer security for teenagers.",

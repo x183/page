@@ -1,5 +1,12 @@
 projects = [
   {
+    name: "Master's thesis",
+    description:
+      "Evaluated the effects of partial automation of software configuration on the configuration complexity and configuration time. Performed in an industrial setting.",
+    date: "2026",
+    link: "Not publicly available as of now",
+  },
+  {
     name: "Local Minecraft server scanner",
     description:
       "School project. Added functionality to the homeassistant integration minecraft-server, such as it could scan the local network for active Minecraft servers and display information about them.",
